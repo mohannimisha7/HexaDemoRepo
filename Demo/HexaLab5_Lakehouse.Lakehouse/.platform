@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Lakehouse",
+    "displayName": "HexaLab5_Lakehouse"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "a42d8548-3407-b58b-4510-dd0dcf3c82c6"
+  }
+}
